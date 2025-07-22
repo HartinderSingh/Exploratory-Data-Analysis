@@ -1,6 +1,6 @@
 # 📊 Exploratiry Data Analytics Project
 
-This project demonstrates SQL-based analysis over  data , focusing on business insights such as customer trends, sales performance, and segmentation. It is designed as a complete **Business Analyst portfolio project** using **T-SQL** and **SQL Server**.
+This project demonstrates SQL-based analysis over  data , focusing on business insights such as customer trends, sales performance, and segmentation. It is designed  using **T-SQL** and **SQL Server**.
 
 ---
 
